@@ -1,0 +1,42 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.title{
+  width: 29rem;
+  float: right;
+  padding-top: 12rem;
+}
+
+.header{
+  padding: 0;
+}
+
+.header > h1 {
+  font-size: 100px;
+  color:white;
+}
+
+.headerButton{
+  border: 2px solid rgb(121, 121, 121);
+  border-radius: 50px;
+  font-size: 35px;
+  padding: 10px 80px 10px 80px;
+  background-color: white;
+  text-decoration: none;
+}
+
+p {
+  font-size: 25px;
+}
+
+li {
+  font-size: 22px;
+}
+
+#__showtime {
+  font-size: 22px;
+}
